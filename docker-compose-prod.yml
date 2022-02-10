@@ -3,4 +3,4 @@ services:
   backend:
     image: whatsuplinlin/234-deploylab-backend-prod:latest
     ports:
-      - "8086:8080"
+      - "9998:8080"
